@@ -93,3 +93,5 @@ rtps:
     receive: true
   - msg:     vehicle_rates_setpoint
     receive: true
+  - msg: sensor_gps
+    send: true

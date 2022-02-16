@@ -65,4 +65,6 @@ rtps:
     receive: true
   - msg: VehicleRatesSetpoint
     receive: true
+  - msg: SensorGps
+    send: true
     
