@@ -67,4 +67,6 @@ rtps:
     receive: true
   - msg: SensorGps
     send: true
+  - msg: BatteryStatus
+    send: true
     
