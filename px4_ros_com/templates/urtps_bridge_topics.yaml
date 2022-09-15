@@ -69,4 +69,5 @@ rtps:
     send: true
   - msg: BatteryStatus
     send: true
-    
+  - msg: ManualControlSwitches
+    receive: true
