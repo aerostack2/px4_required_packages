@@ -69,4 +69,13 @@ rtps:
     send: true
   - msg: BatteryStatus
     send: true
-    
+  - msg: VehicleLocalPosition
+    send: true
+  - msg: VehicleGlobalPosition
+    send: true
+  - msg: VehicleAttitude
+    send: true
+
+# home_position
+# takeoff_status
+# vehicle_land_detected
